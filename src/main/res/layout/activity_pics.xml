@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".pics">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#000000"
+            >
+
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="730dp"
+
+                android:padding="10dp"
+                android:src="@drawable/pic1"
+                tools:layout_editor_absoluteX="-9dp"
+                tools:layout_editor_absoluteY="302dp" />
+
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="730dp"
+
+                android:padding="10dp"
+                android:src="@drawable/pic2"
+                tools:layout_editor_absoluteX="-9dp"
+                tools:layout_editor_absoluteY="302dp" />
+
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="730dp"
+
+                android:padding="10dp"
+                android:src="@drawable/pic3"
+                tools:layout_editor_absoluteX="-9dp"
+                tools:layout_editor_absoluteY="302dp" />
+
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="730dp"
+
+                android:padding="10dp"
+                android:src="@drawable/pic4"
+                tools:layout_editor_absoluteX="-9dp"
+                tools:layout_editor_absoluteY="302dp" />
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="730dp"
+
+                android:padding="10dp"
+                android:src="@drawable/pic5"
+                tools:layout_editor_absoluteX="-9dp"
+                tools:layout_editor_absoluteY="302dp" />
+            <ImageView
+                android:layout_width="400dp"
+                android:layout_height="730dp"
+
+                android:padding="10dp"
+                android:src="@drawable/pic6"
+                tools:layout_editor_absoluteX="-9dp"
+                tools:layout_editor_absoluteY="302dp" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+</LinearLayout>

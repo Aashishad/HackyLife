@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="@drawable/signbg"
+    android:orientation="vertical"
+    tools:context=".Register">
+
+    <ImageView
+        android:layout_width="123dp"
+        android:layout_height="76dp"
+        android:background="@drawable/applogo"
+        android:padding="10dp" />
+    <TextView
+        android:id="@+id/viewtext"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity=""
+        android:layout_margin="20dp"
+        android:padding="42dp"
+        android:text="Sign Up"
+        android:textColor="#fff"
+        android:textSize="44dp" />
+
+
+
+        <EditText
+            android:id="@+id/email"
+            android:layout_width="100pt"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:background="#fff"
+            android:drawableLeft="@drawable/ic_email_black_24dp"
+            android:ems="10"
+            android:hint="Email"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/pass"
+            android:layout_width="100pt"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:background="#fff"
+            android:ems="10"
+            android:hint="Password"
+            android:drawableLeft="@drawable/ic_lock_black_24dp"
+            android:inputType="textPassword" />
+
+        <EditText
+            android:id="@+id/conpass"
+            android:layout_width="100pt"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="5dp"
+            android:background="#fff"
+            android:ems="10"
+            android:drawableLeft="@drawable/ic_lock_black_24dp"
+            android:hint="Confirm Password"
+            android:inputType="textPassword" />
+
+        <Button
+            android:id="@+id/signup"
+            android:layout_width="44pt"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:background="@drawable/buttonstyle"
+            android:onClick="onClick"
+            android:text="SIgn Up" />
+
+</LinearLayout>

@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Hackylife</string>
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign Out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="title_activity_navigation">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_home">Home</string>
+    <string name="title_aboutus">About us</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_genius">Genius</string>
+    <string name="title_1">Card Title 1</string>
+    <string name="title_2">Card Title 2</string>
+    <string name="title_3">Card Title 3</string>
+    <string name="title_4">Card Title 4</string>
+
+    <string name="genius_1">Just pour a cup of baking soda in with the wash and your clothes will come out even brighter and cleaner !</string>
+    <string name="genius_2">Tie some Eucalyptus to your showerhead.It will make an amazing fragrance with the steam.</string>
+    <string name="genius_3">If you want to convert Celsius to Fahrenheit, just multiply the temperature by 1.8 and then add 32 to the product.</string>
+    <string name="genius_4">When using a public restroom, putting toilet paper in the bowl before using the bathroom will eliminate most noise.</string>
+
+    <string name="food_1">Need to cook a whole bunch of hot dogs at once? Toss them all in a Crock - Pot.</string>
+    <string name="food_2">When eating pizza,flip it upside down so the cheese gets maximun contact with your taste buds.</string>
+    <string name="food_3">When you add cream, coffee stays warm 20% longer</string>
+    <string name="food_4">Warp your meat in cabbage to prevent the burning of meat while cooking!</string>
+
+    <string name="techno_1">Repeat last command in Excel pressing F4 in Excel repeats the last Command.</string>
+    <string name="techno_2">Running low on battery? Put your phone on Airplane mode and it will charge much faster! </string>
+    <string name="techno_3">If you want to download a Youtube video, just add "ss" to the URL between www. and Youtube</string>
+    <string name="techno_4">White noise works as magic for babies.You can use some great apps from the Apple or Google Play stores to make them clam and sleep</string>
+
+    <string name="tips_1">When its after 2 am,just go to sleep.Because the decisions you make after 2 am are almost the wrong decisions. </string>
+    <string name="tips_2">Accidentally text the wrong person? Immediately put your phone on airplane mode and once it fails to deliver,delete the message.</string>
+    <string name="tips_3">Don’t make decisions when you’re angry. Don’t make promises when you’re happy.</string>
+    <string name="tips_4">Never attribute to malice that which can be adequately explained by stupidity.</string>
+
+
+</resources>
